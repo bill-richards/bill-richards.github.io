@@ -1,1 +1,13 @@
+title: Jekyll Use
+author: bill-richards
+email: github@greyskin.co.uk
+description: > # this means to ignore newlines until "baseurl:"
+  This site is the result of a learning exercise.
+  There is a rumour going around ...
+  ... but wwe don't listen to rumours.
+# social links
+twitter_username: not_a_whisper # DO NOT include the @ character, or else the build will fail!
+github_username:  bill-richards # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-dinky
