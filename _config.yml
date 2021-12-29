@@ -8,4 +8,4 @@ twitter_username: not_a_whisper # DO NOT include the @ character, or else the bu
 github_username:  bill-richards # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: jekyll-theme-dinky
+theme: minima
