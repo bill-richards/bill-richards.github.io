@@ -6,7 +6,7 @@ This site is currently under development. Recognising, however, that you have fo
 
 ### Here's some documentation for your eyes
 
-- [A Github Action Adventure](https://bill-richards.github.io)
+- [A Github Action Adventure](https://bill-richards.github.io/a-github-action-adventure)
 - [A collection of projects related to modelling naturally occurring phenomena](https://bill-richards.github.io/natural-modelling)
 - [A collection of projects related to _Natural Language Processing_](https://bill-richards.github.io/natural-language-processing)
 - [A collection of projects related to modelling various aspects of _evolutionary theory_](https://bill-richards.github.io/evolution-modelling)
