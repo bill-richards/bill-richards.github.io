@@ -13,4 +13,4 @@ This site is currently under development. Recognising, however, that you have fo
 
 ### Here are some projects for your fingers
 
-- [A template for creating a _Jekyll_ backed repository](https://bill-richards.github.io/jekyll-site-template.md)
+- [A template for creating a _Jekyll_ backed repository](https://github.com/bill-richards/jekyll-site-template.md)
