@@ -11,4 +11,4 @@ twitter_username: not_a_whisper
 github_username:  bill-richards 
 
 show_excerpts: false 
-theme: minima
+theme: jekyll-theme-modernist
