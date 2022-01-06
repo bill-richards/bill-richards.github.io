@@ -13,4 +13,5 @@ This site is currently under development. Recognising, however, that you have fo
 
 ### Here are some projects for your fingers
 
-- [A template for creating a _Jekyll_ backed repository](https://github.com/bill-richards/jekyll-site-template.md)
+- [A template for creating a _Jekyll_ backed repository](https://github.com/bill-richards/jekyll-site-template)
+- [A collection of projects for micro-controllers and single board computers](https://github.com/bill-richards/micro-controller-projects)
