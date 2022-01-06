@@ -8,7 +8,7 @@ This site is currently under development. Recognising, however, that you have fo
 
 - [A Github Action Adventure](https://bill-richards.github.io)
 - [A collection of projects related to modelling naturally occurring phenomena](https://bill-richards.github.io/natural-modelling)
--[A collection of projects related to _Natural Language Processing_](https://bill-richards.github.io/natural-language-processing)
+- [A collection of projects related to _Natural Language Processing_](https://bill-richards.github.io/natural-language-processing)
 - [A collection of projects related to modelling various aspects of _evolutionary theory_](https://bill-richards.github.io/evolution-modelling)
 
 ### Here are some projects for your fingers
