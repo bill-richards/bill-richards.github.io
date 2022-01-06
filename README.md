@@ -15,3 +15,7 @@ This site is currently under development. Recognising, however, that you have fo
 
 - [A template for creating a _Jekyll_ backed repository](https://github.com/bill-richards/jekyll-site-template)
 - [A collection of projects for micro-controllers and single board computers](https://github.com/bill-richards/micro-controller-projects)
+
+### Here's a right riveting read
+
+- [Fancy reading my CV](assets/cv.pdf)
