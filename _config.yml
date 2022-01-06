@@ -1,12 +1,14 @@
 title: Something Wicked this way came
-author: bill-richards
+author: Bill Richards
 email: github@greyskin.co.uk
-description: > # this means to ignore newlines until "baseurl:"
+
+description: > 
   All was quiet in the office that evening, all except for the gentle tap, tap, tapping of the computer keyboard
   ... work was being done.
-# social links
-twitter_username: not_a_whisper # DO NOT include the @ character, or else the build will fail!
-github_username:  bill-richards # DO NOT include the @ character, or else the build will fail!
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+# social links
+twitter_username: not_a_whisper 
+github_username:  bill-richards 
+
+show_excerpts: false 
 theme: minima
