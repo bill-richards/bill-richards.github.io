@@ -18,4 +18,5 @@ This site is currently under development. Recognising, however, that you have fo
 
 ### Here's a right riveting read
 
-- [Fancy reading my CV]("assets/Bill Richards CV.pdf")
+- [Fancy reading my CV](assets/cv.pdf)
+  
